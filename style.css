@@ -1,5 +1,11 @@
 .img-bg img{
-    border: 15px solid rgba(70, 60, 60, 0.513) !important;
+    border: 15px solid rgba(2, 2, 2, 0.513) !important;
+    width: 535px;
+    height: 355px;
+    border-radius: 15px;
+}
+.border-c{
+    border: 15px solid rgba(13, 14, 17, 0.513) !important;
     width: 535px;
     height: 355px;
     border-radius: 15px;
