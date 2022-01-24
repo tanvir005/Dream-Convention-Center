@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+
 .img-bg img{
-    border: 15px solid rgba(2, 2, 2, 0.513) !important;
+    border: 15px solid #f8f9fa !important;
     width: 535px;
     height: 355px;
     border-radius: 15px;
@@ -9,4 +15,27 @@
     width: 535px;
     height: 355px;
     border-radius: 15px;
+}
+.service-component:hover{
+ 
+  transform: rotate(1deg);
+}
+
+.title-c{
+    font-family: Poppins !important;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 33px;
+    font-feature-settings: 'liga' off;
+    color: #3E3E3E;
+}
+
+p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
 }
