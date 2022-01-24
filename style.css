@@ -1,0 +1,6 @@
+.img-bg img{
+    border: 15px solid rgba(70, 60, 60, 0.513) !important;
+    width: 535px;
+    height: 355px;
+    border-radius: 15px;
+}
